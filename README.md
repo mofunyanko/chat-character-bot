@@ -1,6 +1,6 @@
 # キャラ付けChatBot(Slack)
 SecHackのナイトチャレンジで作成しました。
-![image](https://github.com/mofunyanko/chat-character-bot/assets/95011869/8c7bdd7d-876a-40bb-9727-91c03931e654)
+![image](https://github.com/mofunyanko/chat-character-bot/assets/95011869/ea432ab0-2765-4fd2-9ab4-012b6c0c22ad)
 
 ## 設定の仕方
 1. Slackでbotを作成し、権限を付与する
