@@ -1,3 +1,4 @@
+# fastapiの方
 import os
 import openai
 import uvicorn
